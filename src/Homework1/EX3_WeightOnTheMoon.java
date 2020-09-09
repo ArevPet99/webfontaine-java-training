@@ -2,7 +2,7 @@ package Homework1;
 
 import java.util.Scanner;
 
-public class WeightOnTheMoon {
+public class EX3_WeightOnTheMoon {
     public static void main(String[] args) {
         Double weight;
         System.out.println("Enter weight  ");

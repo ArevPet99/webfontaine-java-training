@@ -2,7 +2,7 @@ package Homework1;
 
 import java.util.Scanner;
 
-public class TemperatureConverter {
+public class EX1_TemperatureConverter {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Input a degree in Fahrenheit:  ");

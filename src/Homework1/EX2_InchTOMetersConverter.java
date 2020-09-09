@@ -2,7 +2,7 @@ package Homework1;
 
 import java.util.Scanner;
 
-public class InchTOMetersConverter {
+public class EX2_InchTOMetersConverter {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Input a value for inch:  ");

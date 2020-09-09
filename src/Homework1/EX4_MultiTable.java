@@ -2,7 +2,7 @@ package Homework1;
 
 import java.util.Scanner;
 
-public class MultiTable {
+public class EX4_MultiTable {
     public static void main(String[] args) {
         int number;
         System.out.println("Enter an integer number");
